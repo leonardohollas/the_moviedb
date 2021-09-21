@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Teste_Tecnico_Dietbox
+
+  Created by Leonardo Hollas on 16/09/21.
+  
+*/
+
+// MARK: Home
+"score" = "Nota:";
+"searchMovies" = "Pesquisar Filmes";
+"searchResultsFor" = "Resultados da busca por ";
+"seeMore" = "Ver Mais";
+"theMovieDB" = "The Movie Database";
+"popularMovies" = "Filmes Populares";
+
+// MARK: Details
+"originalLanguage" = "Idioma Original";
+"overview" = "Sinopse";
+"releaseDate" = "Data de Lançamento";
+
+// MARK: Error
+"notFound" = "Nenhum resultado encontrado.";
+"ok" = "OK";
+"ops" = "Ops!";
+"tryAgain" = "Ocorreu um erro. Tente novamente.";
