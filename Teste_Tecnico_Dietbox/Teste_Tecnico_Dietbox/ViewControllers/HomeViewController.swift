@@ -47,9 +47,9 @@ class HomeViewController: UIViewController {
         setupComponents()
         setupDelegates()
         //Para testar cenário com internet
-//        getTrendings()
+        getTrendings()
         //Para testar cenário sem internet
-        readStoredData()
+        //readStoredData()
     }
     
     func setupComponents() {
